@@ -2,7 +2,7 @@ import time
 import requests
 
 # Replace this with your actual Render URL (your deployed server)
-URL = "https://iems-backend.onrender.com"
+URL = "https://iems-backend-u6bb.onrender.com"
 
 def ping_render():
     try:
